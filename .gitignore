@@ -17,3 +17,6 @@
 # for editor
 *~
 *.swp
+
+# for bin
+cmd/alz
