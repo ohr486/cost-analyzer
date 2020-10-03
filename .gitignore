@@ -18,5 +18,8 @@
 *~
 *.swp
 
+# for ide
+.idea
+
 # for bin
 cmd/alz
