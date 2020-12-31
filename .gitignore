@@ -21,6 +21,7 @@
 # for ide
 .idea
 .ide
+.vscode
 
 # for bin
 cmd/alz
