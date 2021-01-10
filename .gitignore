@@ -21,6 +21,7 @@
 # for ide
 .idea
 .ide
+.ideavimrc
 .vscode
 
 # for bin
