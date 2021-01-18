@@ -19,7 +19,6 @@
 *.swp
 
 # for ide
-.idea
 .ide
 .ideavimrc
 .vscode
