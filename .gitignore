@@ -20,6 +20,7 @@
 
 # for ide
 .ide
+.idea
 .ideavimrc
 .vscode
 
